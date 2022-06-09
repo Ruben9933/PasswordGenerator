@@ -1,1 +1,1 @@
-# PasswordGenerator
+random password generator using html/css/javascript
